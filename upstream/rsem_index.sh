@@ -1,0 +1,2 @@
+module load perl/5.24.0
+/rds/general/user/mmoradim/home/tools/RSEM-master/rsem-prepare-reference --gtf /rds/general/user/mmoradim/projects/cunnington-covid-transcriptomics/ephemeral/Users/Mahdi/RNAseq_SCVD19/star_index/gencode.v35.annotation.gtf /rds/general/user/mmoradim/projects/cunnington-covid-transcriptomics/ephemeral/Users/Mahdi/RNAseq_SCVD19/star_index/GRCh38.primary_assembly.genome.fa ./hg38

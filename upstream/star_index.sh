@@ -1,0 +1,1 @@
+STAR --runMode genomeGenerate --genomeDir ./ --genomeFastaFiles ./GRCh38.primary_assembly.genome.fa --sjdbGTFfile ./gencode.v35.annotation.gtf --sjdbOverhang 100
